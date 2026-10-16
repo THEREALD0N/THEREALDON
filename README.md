@@ -1,4 +1,11 @@
 # THEREALDON
+<div align="center">
+  <img src="Rainy Night Lofi Studio Session.png" width="100%" alt="Anderson Tavares GitHub Banner"/>
+</div>
+
+<br>
+
+
 
 <div align="center">
 
